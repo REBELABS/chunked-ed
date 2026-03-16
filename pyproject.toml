@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chunked-ed"
+version = "0.1.0"
+description = "Chunked Energy Distance computation and permutation-based testing for 1D and 2D samples."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+  { name = "Iwa Abiola Akanni" }
+]
+dependencies = [
+  "numpy>=1.24",
+  "tqdm>=4.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/REBELABS/chunked-ed"
+Repository = "https://github.com/REBELABS/chunked-ed"
+
+[tool.setuptools.packages.find]
+where = ["src"]
