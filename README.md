@@ -20,7 +20,7 @@ This package was developed to make Energy Distance estimation more memory-effici
 
 If you use this software, please cite this release:
 
-Akanni, I. A. (2026). *chunked-ed* (v0.1.2) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19058025
+Akanni, I. A. (2026). *chunked-ed* (v0.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.19058025
 
 ## Installation
 
