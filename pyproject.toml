@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "chunked-ed"
-version = "0.1.0"
+version = "0.1.1"
 description = "Chunked Energy Distance computation and permutation-based testing for 1D and 2D samples."
 readme = "README.md"
 requires-python = ">=3.9"
